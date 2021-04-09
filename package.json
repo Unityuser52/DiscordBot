@@ -1,0 +1,28 @@
+{
+  "name": "the-multiverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "canvas": "^2.7.0",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "images-scraper": "^6.1.1",
+    "mathjs": "^9.3.0",
+    "mongoose": "^5.12.1",
+    "pagination": "^0.4.6",
+    "parse-ms": "^2.1.0",
+    "weather-js": "^2.0.0",
+    "wokcommands": "^1.2.8",
+    "yt-search": "^2.7.4",
+    "ytdl-core": "^4.5.0"
+  }
+}
